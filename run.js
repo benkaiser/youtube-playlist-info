@@ -8,7 +8,7 @@ function playlistInfoRecursive(playlistId, callStackSize, pageToken, currentItem
     maxResults: 50,
     playlistId: playlistId,
   }, function(err, data) {
-    if (err) return {error: err}
+    if (err) callback({error: err});
 
     for (var x in data.items) {
       currentItems.push(data.items[x].snippet);
