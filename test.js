@@ -2,7 +2,8 @@ var playlistInfo = require('./run');
 
 // playlist has 93 items, should force 2 pages of 50 each
 // Full playlst link: https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp
-playlistInfo.playlistInfo(process.env.API_KEY, 'PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp', function(playlistItems) {
+playlistInfo.playlistInfo(process.env.API_KEY, 'PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp', function(err, playlistItems) {
+  if (err) return console.error(err);
   console.log(playlistItems);
   console.log(playlistItems.length);
 });
