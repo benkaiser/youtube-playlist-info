@@ -24,7 +24,7 @@ function playlistInfoRecursive(playlistId, callStackSize, pageToken, currentItem
 }
 
 exports.playlistInfo = function getPlaylistInfo(apiKey, playlistId, callback) {
-    if (!done) {
+    if (!callback) {
     return new Promise(function(resolve, reject) {
       getPlaylistInfo(apiKey, playlistId, function(err, info) {
         if (err) return reject(err);
