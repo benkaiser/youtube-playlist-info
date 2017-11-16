@@ -1,34 +1,28 @@
 {
   "name": "youtube-playlist-info",
+  "version": "1.0.0",
   "description": "Youtube playlist information fetcher.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/benkaiser/youtube-playlist-info.git"
+  },
   "keywords": [
     "youtube",
     "video",
     "download"
   ],
-  "version": "0.1.0",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:benkaiser/youtube-playlist-info.git"
-  },
   "author": "Benjamin Kaiser",
-  "main": "run.js",
-  "dependencies": {
-    "youtube-api": "*"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/benkaiser/youtube-playlist-info/raw/master/LICENSE"
-    }
-  ],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/benkaiser/youtube-playlist-info/issues"
   },
-  "homepage": "https://github.com/benkaiser/youtube-playlist-info",
-  "devDependencies": {},
-  "scripts": {
-    "test": "node test.js"
-  },
-  "license": "MIT"
+  "homepage": "https://github.com/benkaiser/youtube-playlist-info#readme",
+  "dependencies": {
+    "nodejs": "^6.0.0",
+    "youtube-api": "^2.0.9"
+  }
 }
