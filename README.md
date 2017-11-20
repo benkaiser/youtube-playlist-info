@@ -12,7 +12,7 @@ npm install --save youtube-playlist-info
 ### Usage
 ```js
 const ypi = require('youtube-playlist-info');
-ypt("YouTube API Key", "Playlist ID").then(items => {
+ypi("YouTube API Key", "Playlist ID").then(items => {
   console.log(items);
 }).catch(console.error);
 ```
