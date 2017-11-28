@@ -1,4 +1,4 @@
-const playlistInfo = require('./src/index.js');
+const playlistInfo = require('../src/index.js');
 
 // playlist has 93 items, should force 2 pages of 50 each
 // Full playlst link: https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp

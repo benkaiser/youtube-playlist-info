@@ -1,15 +1,19 @@
 {
   "name": "youtube-playlist-info",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "version": "1.1.1",
 =======
   "version": "1.0.1",
 >>>>>>> parent of 4be4f60... Add support for custom max results
+=======
+  "version": "1.1.1",
+>>>>>>> 0423097b6dbd26c2beebb02b00a471f69b05bf24
   "description": "Youtube playlist information fetcher.",
   "main": "./src/index.js",
   "types": "./typings/index.d.ts",
   "scripts": {
-    "test": "node test.js"
+    "test": "node tests/getinfo.js"
   },
   "repository": {
     "type": "git",
