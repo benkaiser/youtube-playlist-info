@@ -36,8 +36,11 @@
     "position": 0,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "LL_Mvy4C8I8"
-    }
+      "videoId": "LL_Mvy4C8I8",
+      "videoURL": "https://www.youtube.com/watch?v=LL_Mvy4C8I8"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-04-30T20:55:07.000Z",
@@ -76,8 +79,11 @@
     "position": 1,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "tUBXh5pkncA"
-    }
+      "videoId": "tUBXh5pkncA",
+      "videoURL": "https://www.youtube.com/watch?v=tUBXh5pkncA"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-04-30T20:55:07.000Z",
@@ -116,8 +122,11 @@
     "position": 2,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "RN_zBk5pZlQ"
-    }
+      "videoId": "RN_zBk5pZlQ",
+      "videoURL": "https://www.youtube.com/watch?v=RN_zBk5pZlQ"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-04-30T20:55:07.000Z",
@@ -156,8 +165,11 @@
     "position": 3,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "lZLXF7p2UIw"
-    }
+      "videoId": "lZLXF7p2UIw",
+      "videoURL": "https://www.youtube.com/watch?v=lZLXF7p2UIw"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-04-30T20:55:07.000Z",
@@ -196,8 +208,11 @@
     "position": 4,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "UFlZ35v_LSI"
-    }
+      "videoId": "UFlZ35v_LSI",
+      "videoURL": "https://www.youtube.com/watch?v=UFlZ35v_LSI"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-04-30T20:55:07.000Z",
@@ -236,8 +251,11 @@
     "position": 5,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "SK30P594bmo"
-    }
+      "videoId": "SK30P594bmo",
+      "videoURL": "https://www.youtube.com/watch?v=SK30P594bmo"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-04-30T20:55:07.000Z",
@@ -276,8 +294,11 @@
     "position": 6,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "vF1I50P3hfo"
-    }
+      "videoId": "vF1I50P3hfo",
+      "videoURL": "https://www.youtube.com/watch?v=vF1I50P3hfo"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-09T23:46:39.000Z",
@@ -289,8 +310,11 @@
     "position": 7,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "9tl6UzbdbmQ"
-    }
+      "videoId": "9tl6UzbdbmQ",
+      "videoURL": "https://www.youtube.com/watch?v=9tl6UzbdbmQ"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-09T23:51:44.000Z",
@@ -329,8 +353,11 @@
     "position": 8,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "O19-Y26rIuw"
-    }
+      "videoId": "O19-Y26rIuw",
+      "videoURL": "https://www.youtube.com/watch?v=O19-Y26rIuw"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-09T23:55:36.000Z",
@@ -342,8 +369,11 @@
     "position": 9,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "9PUr1AHLwqE"
-    }
+      "videoId": "9PUr1AHLwqE",
+      "videoURL": "https://www.youtube.com/watch?v=9PUr1AHLwqE"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-31T19:50:33.000Z",
@@ -382,8 +412,11 @@
     "position": 10,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "OfYEDt9ZsPs"
-    }
+      "videoId": "OfYEDt9ZsPs",
+      "videoURL": "https://www.youtube.com/watch?v=OfYEDt9ZsPs"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-31T19:51:15.000Z",
@@ -422,8 +455,11 @@
     "position": 11,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "Uo02LEi6edQ"
-    }
+      "videoId": "Uo02LEi6edQ",
+      "videoURL": "https://www.youtube.com/watch?v=Uo02LEi6edQ"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-31T19:53:56.000Z",
@@ -462,8 +498,11 @@
     "position": 12,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "oBEtHLKZfOo"
-    }
+      "videoId": "oBEtHLKZfOo",
+      "videoURL": "https://www.youtube.com/watch?v=oBEtHLKZfOo"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-31T19:55:35.000Z",
@@ -502,8 +541,11 @@
     "position": 13,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "f3oJa82fJy0"
-    }
+      "videoId": "f3oJa82fJy0",
+      "videoURL": "https://www.youtube.com/watch?v=f3oJa82fJy0"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-31T19:56:49.000Z",
@@ -542,8 +584,11 @@
     "position": 14,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "dACuSOXPJyU"
-    }
+      "videoId": "dACuSOXPJyU",
+      "videoURL": "https://www.youtube.com/watch?v=dACuSOXPJyU"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-31T19:59:16.000Z",
@@ -582,8 +627,11 @@
     "position": 15,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "cRqeflxiGD0"
-    }
+      "videoId": "cRqeflxiGD0",
+      "videoURL": "https://www.youtube.com/watch?v=cRqeflxiGD0"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-31T19:59:53.000Z",
@@ -622,8 +670,11 @@
     "position": 16,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "ft8ZjpwseY8"
-    }
+      "videoId": "ft8ZjpwseY8",
+      "videoURL": "https://www.youtube.com/watch?v=ft8ZjpwseY8"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-31T20:00:25.000Z",
@@ -662,8 +713,11 @@
     "position": 17,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "2592ACIYMak"
-    }
+      "videoId": "2592ACIYMak",
+      "videoURL": "https://www.youtube.com/watch?v=2592ACIYMak"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-31T20:00:41.000Z",
@@ -702,8 +756,11 @@
     "position": 18,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "Okjd7E85PUg"
-    }
+      "videoId": "Okjd7E85PUg",
+      "videoURL": "https://www.youtube.com/watch?v=Okjd7E85PUg"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-05-31T20:07:18.000Z",
@@ -742,8 +799,11 @@
     "position": 19,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "08qjDZb4px0"
-    }
+      "videoId": "08qjDZb4px0",
+      "videoURL": "https://www.youtube.com/watch?v=08qjDZb4px0"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-02T17:44:39.000Z",
@@ -782,8 +842,11 @@
     "position": 20,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "BCBT4IKt7NM"
-    }
+      "videoId": "BCBT4IKt7NM",
+      "videoURL": "https://www.youtube.com/watch?v=BCBT4IKt7NM"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T19:29:46.000Z",
@@ -822,8 +885,11 @@
     "position": 21,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "YcnAWvwDjkY"
-    }
+      "videoId": "YcnAWvwDjkY",
+      "videoURL": "https://www.youtube.com/watch?v=YcnAWvwDjkY"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T19:58:54.000Z",
@@ -862,8 +928,11 @@
     "position": 22,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "hTSnmewFMIs"
-    }
+      "videoId": "hTSnmewFMIs",
+      "videoURL": "https://www.youtube.com/watch?v=hTSnmewFMIs"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:01:51.000Z",
@@ -902,8 +971,11 @@
     "position": 23,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "PHH7lyfsSkc"
-    }
+      "videoId": "PHH7lyfsSkc",
+      "videoURL": "https://www.youtube.com/watch?v=PHH7lyfsSkc"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:03:25.000Z",
@@ -942,8 +1014,11 @@
     "position": 24,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "sud4mTkG5v4"
-    }
+      "videoId": "sud4mTkG5v4",
+      "videoURL": "https://www.youtube.com/watch?v=sud4mTkG5v4"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:06:03.000Z",
@@ -982,8 +1057,11 @@
     "position": 25,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "FTlW6gGlDc8"
-    }
+      "videoId": "FTlW6gGlDc8",
+      "videoURL": "https://www.youtube.com/watch?v=FTlW6gGlDc8"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:11:31.000Z",
@@ -1022,8 +1100,11 @@
     "position": 26,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "pehC3Q7MZBQ"
-    }
+      "videoId": "pehC3Q7MZBQ",
+      "videoURL": "https://www.youtube.com/watch?v=pehC3Q7MZBQ"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:14:31.000Z",
@@ -1062,8 +1143,11 @@
     "position": 27,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "povopsN3tmA"
-    }
+      "videoId": "povopsN3tmA",
+      "videoURL": "https://www.youtube.com/watch?v=povopsN3tmA"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:16:38.000Z",
@@ -1102,8 +1186,11 @@
     "position": 28,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "-qgsUbMf4eY"
-    }
+      "videoId": "-qgsUbMf4eY",
+      "videoURL": "https://www.youtube.com/watch?v=-qgsUbMf4eY"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:17:52.000Z",
@@ -1142,8 +1229,11 @@
     "position": 29,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "a2oexAxixHk"
-    }
+      "videoId": "a2oexAxixHk",
+      "videoURL": "https://www.youtube.com/watch?v=a2oexAxixHk"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:21:12.000Z",
@@ -1182,8 +1272,11 @@
     "position": 30,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "dn2xORrwYfk"
-    }
+      "videoId": "dn2xORrwYfk",
+      "videoURL": "https://www.youtube.com/watch?v=dn2xORrwYfk"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:24:24.000Z",
@@ -1222,8 +1315,11 @@
     "position": 31,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "505DJYRgBKQ"
-    }
+      "videoId": "505DJYRgBKQ",
+      "videoURL": "https://www.youtube.com/watch?v=505DJYRgBKQ"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:24:28.000Z",
@@ -1262,14 +1358,17 @@
     "position": 32,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "sswioXJAOww"
-    }
+      "videoId": "sswioXJAOww",
+      "videoURL": "https://www.youtube.com/watch?v=sswioXJAOww"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:28:22.000Z",
     "channelId": "UCG9GDPYfzm67CgdovNU9RMw",
     "title": "Toneshifterz & Code Black - About The Music",
-    "description": "Toneshifterz & Code Black - All About The Music\nhttp://www.facebook.com/Toneshifterz - http://www.facebook.com/CodeBlackMedia\nhttp://www.twitter.com/Toneshifterz - http://www.twitter.com/CodeBlackMedia\nhttp://www.OrangeMerch.com (Official Toneshifterz Merchandise)\nDon't forget to LIKE and Share!!\n\nLyrics:\nYeah, we're DJs!\nBut we're no discjockeys,\ncause in this day and age,\nnobody's using discs anymore,\nbut were still DJs,\nDance music Junkies!\nRaw beats and dark and dirty basslines.\nSome call it noise cause they don't understand it,\nbut we don't even hear that shit.\n\nCause we are hardstyle!\n\nIf you love getting your ass kicked by 4 to the floor distorted bass drums\nand your addicted to the screeches and melodies\nthat alter your state of mind.\nThen raise your hands and open up your minds.\nIt's in our blood, our DNA, it drives our very existence.\nSo bring back the noise, the beats and the bass.\nIt's all about the music and it always has been.",
+    "description": "Add to Spotify: https://open.spotify.com/track/2sDQUEPt3AZAwECKudGw6Y\n\n\nLYRICS:\nYeah, we're DJs!\nBut we're no discjockeys,\ncause in this day and age,\nnobody's using discs anymore,\nbut were still DJs,\nDance music Junkies!\nRaw beats and dark and dirty basslines.\nSome call it noise cause they don't understand it,\nbut we don't even hear that shit.\n\nCause we are Hardstyle!\n\nIf you love getting your ass kicked by 4 to the floor distorted bass drums\nand your addicted to the screeches and melodies\nthat alter your state of mind.\nThen raise your hands and open up your minds.\nIt's in our blood, our DNA, it drives our very existence.\nSo bring back the noise, the beats and the bass.\nIt's all about the music and it always has been.\n\nFollow Toneshifterz:\nhttps://www.facebook.com/toneshifterz\nhttps://www.twitter.com/toneshifterz\nhttps://www.youtube.com/toneshifterz \nhttps://www.instagram.com/toneshifterz\nhttps://www.soundcloud.com/toneshifterzofficial\n\nFollow Code Black:\nhttp://www.codeblackmedia.nl\nhttp://www.facebook.com/CodeBlackMedia\nhttp://www.twitter.com/CodeBlackMedia\nhttp://www.soundcloud.com/CodeBlackMedia\nhttp://www.instagram.com/CodeBlackMedia",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/7Tyh2CnElOw/default.jpg",
@@ -1302,8 +1401,11 @@
     "position": 33,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "7Tyh2CnElOw"
-    }
+      "videoId": "7Tyh2CnElOw",
+      "videoURL": "https://www.youtube.com/watch?v=7Tyh2CnElOw"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:30:36.000Z",
@@ -1332,8 +1434,11 @@
     "position": 34,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "nucuG-ulu1M"
-    }
+      "videoId": "nucuG-ulu1M",
+      "videoURL": "https://www.youtube.com/watch?v=nucuG-ulu1M"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:31:36.000Z",
@@ -1372,8 +1477,11 @@
     "position": 35,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "1Y1X9LqWrK4"
-    }
+      "videoId": "1Y1X9LqWrK4",
+      "videoURL": "https://www.youtube.com/watch?v=1Y1X9LqWrK4"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:37:37.000Z",
@@ -1412,8 +1520,11 @@
     "position": 36,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "E7J-RsMJLbA"
-    }
+      "videoId": "E7J-RsMJLbA",
+      "videoURL": "https://www.youtube.com/watch?v=E7J-RsMJLbA"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:39:27.000Z",
@@ -1452,8 +1563,11 @@
     "position": 37,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "f3_S9Wr_sL0"
-    }
+      "videoId": "f3_S9Wr_sL0",
+      "videoURL": "https://www.youtube.com/watch?v=f3_S9Wr_sL0"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:42:27.000Z",
@@ -1487,14 +1601,17 @@
     "position": 38,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "KhmF2K1xB78"
-    }
+      "videoId": "KhmF2K1xB78",
+      "videoURL": "https://www.youtube.com/watch?v=KhmF2K1xB78"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:53:33.000Z",
     "channelId": "UCG9GDPYfzm67CgdovNU9RMw",
-    "title": "Sunny Marleen Feat. Alisa Fedele - Dirty liar (Toneshifterz Remix) (Preview)",
-    "description": "Preview of our remix for Sunny Marleen and Alisa Fedele to be released soon! :)\n\nArtist: Sunny Marleen Feat. Alisa Fedele - \n\nTitle:   Dirty liar (Toneshifterz Remix) \n\nLabel: PUNQ\nCopyright: 2013 Punq Records, a division of Planet Punk Music GbR",
+    "title": "Sunny Marleen ft. Alisa Fedele - Dirty liar (Toneshifterz Remix)",
+    "description": "Add to Spotify: https://open.spotify.com/track/64eqF6WghS0FhAVNtkHvUH\n\nLabel: PUNQ\nCopyright: 2013 Punq Records, a division of Planet Punk Music GbR\n\nFollow Toneshifterz:\nhttps://www.facebook.com/toneshifterz\nhttps://www.twitter.com/toneshifterz\nhttps://www.youtube.com/toneshifterz \nhttps://www.instagram.com/toneshifterz\nhttps://www.soundcloud.com/toneshifterzofficial",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/Pz1xIZ9o6co/default.jpg",
@@ -1527,8 +1644,11 @@
     "position": 39,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "Pz1xIZ9o6co"
-    }
+      "videoId": "Pz1xIZ9o6co",
+      "videoURL": "https://www.youtube.com/watch?v=Pz1xIZ9o6co"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:57:08.000Z",
@@ -1567,8 +1687,11 @@
     "position": 40,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "ha1hI6SjTJE"
-    }
+      "videoId": "ha1hI6SjTJE",
+      "videoURL": "https://www.youtube.com/watch?v=ha1hI6SjTJE"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T20:58:03.000Z",
@@ -1607,8 +1730,11 @@
     "position": 41,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "AYNLfAHQf9w"
-    }
+      "videoId": "AYNLfAHQf9w",
+      "videoURL": "https://www.youtube.com/watch?v=AYNLfAHQf9w"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T21:05:02.000Z",
@@ -1637,8 +1763,11 @@
     "position": 42,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "GhXGVOzlym4"
-    }
+      "videoId": "GhXGVOzlym4",
+      "videoURL": "https://www.youtube.com/watch?v=GhXGVOzlym4"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T21:07:43.000Z",
@@ -1677,8 +1806,11 @@
     "position": 43,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "1QE75-E6PkM"
-    }
+      "videoId": "1QE75-E6PkM",
+      "videoURL": "https://www.youtube.com/watch?v=1QE75-E6PkM"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T21:08:17.000Z",
@@ -1717,8 +1849,11 @@
     "position": 44,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "r2-P8RnyADc"
-    }
+      "videoId": "r2-P8RnyADc",
+      "videoURL": "https://www.youtube.com/watch?v=r2-P8RnyADc"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T21:11:19.000Z",
@@ -1757,8 +1892,11 @@
     "position": 45,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "fYzfIY1tyxM"
-    }
+      "videoId": "fYzfIY1tyxM",
+      "videoURL": "https://www.youtube.com/watch?v=fYzfIY1tyxM"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T21:12:12.000Z",
@@ -1797,8 +1935,11 @@
     "position": 46,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "t4p4FcMDWag"
-    }
+      "videoId": "t4p4FcMDWag",
+      "videoURL": "https://www.youtube.com/watch?v=t4p4FcMDWag"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T21:18:44.000Z",
@@ -1837,8 +1978,11 @@
     "position": 47,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "zfzrjq91D7I"
-    }
+      "videoId": "zfzrjq91D7I",
+      "videoURL": "https://www.youtube.com/watch?v=zfzrjq91D7I"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T21:24:01.000Z",
@@ -1877,8 +2021,11 @@
     "position": 48,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "zZEQS6zaZBc"
-    }
+      "videoId": "zZEQS6zaZBc",
+      "videoURL": "https://www.youtube.com/watch?v=zZEQS6zaZBc"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T21:33:46.000Z",
@@ -1917,8 +2064,11 @@
     "position": 49,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "2xX7g_LYnfs"
-    }
+      "videoId": "2xX7g_LYnfs",
+      "videoURL": "https://www.youtube.com/watch?v=2xX7g_LYnfs"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-03T21:34:55.000Z",
@@ -1957,8 +2107,11 @@
     "position": 50,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "XCJ9flh5IBo"
-    }
+      "videoId": "XCJ9flh5IBo",
+      "videoURL": "https://www.youtube.com/watch?v=XCJ9flh5IBo"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-12T20:58:53.000Z",
@@ -1970,8 +2123,11 @@
     "position": 51,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "lNZmO31sYkw"
-    }
+      "videoId": "lNZmO31sYkw",
+      "videoURL": "https://www.youtube.com/watch?v=lNZmO31sYkw"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-12T21:04:09.000Z",
@@ -2010,8 +2166,11 @@
     "position": 52,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "AHbAHkiDYIo"
-    }
+      "videoId": "AHbAHkiDYIo",
+      "videoURL": "https://www.youtube.com/watch?v=AHbAHkiDYIo"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-12T21:07:33.000Z",
@@ -2050,8 +2209,11 @@
     "position": 53,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "tWgmPQbTEEI"
-    }
+      "videoId": "tWgmPQbTEEI",
+      "videoURL": "https://www.youtube.com/watch?v=tWgmPQbTEEI"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-06-14T16:42:27.000Z",
@@ -2090,8 +2252,11 @@
     "position": 54,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "RxYxVvNhMhI"
-    }
+      "videoId": "RxYxVvNhMhI",
+      "videoURL": "https://www.youtube.com/watch?v=RxYxVvNhMhI"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-07-01T15:50:32.000Z",
@@ -2130,8 +2295,11 @@
     "position": 55,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "T3SQZOW-iZk"
-    }
+      "videoId": "T3SQZOW-iZk",
+      "videoURL": "https://www.youtube.com/watch?v=T3SQZOW-iZk"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-09T23:07:46.000Z",
@@ -2170,8 +2338,11 @@
     "position": 56,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "h9I-9Sj4sKs"
-    }
+      "videoId": "h9I-9Sj4sKs",
+      "videoURL": "https://www.youtube.com/watch?v=h9I-9Sj4sKs"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-09T23:19:24.000Z",
@@ -2210,8 +2381,11 @@
     "position": 57,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "yb8jquyEjuI"
-    }
+      "videoId": "yb8jquyEjuI",
+      "videoURL": "https://www.youtube.com/watch?v=yb8jquyEjuI"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-26T23:23:31.000Z",
@@ -2250,8 +2424,11 @@
     "position": 58,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "qZeCsvQNH1I"
-    }
+      "videoId": "qZeCsvQNH1I",
+      "videoURL": "https://www.youtube.com/watch?v=qZeCsvQNH1I"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-26T23:25:33.000Z",
@@ -2280,8 +2457,11 @@
     "position": 59,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "a6Jai6_IBiE"
-    }
+      "videoId": "a6Jai6_IBiE",
+      "videoURL": "https://www.youtube.com/watch?v=a6Jai6_IBiE"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-28T20:21:45.000Z",
@@ -2320,8 +2500,11 @@
     "position": 60,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "-HtsBb-Neuw"
-    }
+      "videoId": "-HtsBb-Neuw",
+      "videoURL": "https://www.youtube.com/watch?v=-HtsBb-Neuw"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-28T20:23:22.000Z",
@@ -2360,8 +2543,11 @@
     "position": 61,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "3MkYtDx2XyA"
-    }
+      "videoId": "3MkYtDx2XyA",
+      "videoURL": "https://www.youtube.com/watch?v=3MkYtDx2XyA"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-28T20:44:44.000Z",
@@ -2400,8 +2586,11 @@
     "position": 62,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "AKhht2RmHZc"
-    }
+      "videoId": "AKhht2RmHZc",
+      "videoURL": "https://www.youtube.com/watch?v=AKhht2RmHZc"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-28T20:49:16.000Z",
@@ -2440,8 +2629,11 @@
     "position": 63,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "xbWGU5S-Zog"
-    }
+      "videoId": "xbWGU5S-Zog",
+      "videoURL": "https://www.youtube.com/watch?v=xbWGU5S-Zog"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-28T20:58:12.000Z",
@@ -2480,8 +2672,11 @@
     "position": 64,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "Z1dXYyyGvaA"
-    }
+      "videoId": "Z1dXYyyGvaA",
+      "videoURL": "https://www.youtube.com/watch?v=Z1dXYyyGvaA"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-28T21:27:29.000Z",
@@ -2520,8 +2715,11 @@
     "position": 65,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "H12ws2L3qqE"
-    }
+      "videoId": "H12ws2L3qqE",
+      "videoURL": "https://www.youtube.com/watch?v=H12ws2L3qqE"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-28T21:29:50.000Z",
@@ -2560,8 +2758,11 @@
     "position": 66,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "xz-tRU29QIQ"
-    }
+      "videoId": "xz-tRU29QIQ",
+      "videoURL": "https://www.youtube.com/watch?v=xz-tRU29QIQ"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-28T21:43:28.000Z",
@@ -2600,8 +2801,11 @@
     "position": 67,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "xZR8bNRumCQ"
-    }
+      "videoId": "xZR8bNRumCQ",
+      "videoURL": "https://www.youtube.com/watch?v=xZR8bNRumCQ"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-28T21:46:01.000Z",
@@ -2640,8 +2844,11 @@
     "position": 68,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "yAAx6EX_Wt8"
-    }
+      "videoId": "yAAx6EX_Wt8",
+      "videoURL": "https://www.youtube.com/watch?v=yAAx6EX_Wt8"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-28T21:50:50.000Z",
@@ -2680,8 +2887,11 @@
     "position": 69,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "v9iSAfebDDc"
-    }
+      "videoId": "v9iSAfebDDc",
+      "videoURL": "https://www.youtube.com/watch?v=v9iSAfebDDc"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-28T21:51:32.000Z",
@@ -2720,8 +2930,11 @@
     "position": 70,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "mT6B__Az2Ko"
-    }
+      "videoId": "mT6B__Az2Ko",
+      "videoURL": "https://www.youtube.com/watch?v=mT6B__Az2Ko"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-30T18:05:04.000Z",
@@ -2760,8 +2973,11 @@
     "position": 71,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "ek2S-PlnURc"
-    }
+      "videoId": "ek2S-PlnURc",
+      "videoURL": "https://www.youtube.com/watch?v=ek2S-PlnURc"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-08-31T15:24:02.000Z",
@@ -2800,8 +3016,11 @@
     "position": 72,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "XB5Z6i4ZYX0"
-    }
+      "videoId": "XB5Z6i4ZYX0",
+      "videoURL": "https://www.youtube.com/watch?v=XB5Z6i4ZYX0"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-02T04:12:52.000Z",
@@ -2840,8 +3059,11 @@
     "position": 73,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "zaGix6Uzqic"
-    }
+      "videoId": "zaGix6Uzqic",
+      "videoURL": "https://www.youtube.com/watch?v=zaGix6Uzqic"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-02T04:19:26.000Z",
@@ -2880,8 +3102,11 @@
     "position": 74,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "DQLGlTgtAek"
-    }
+      "videoId": "DQLGlTgtAek",
+      "videoURL": "https://www.youtube.com/watch?v=DQLGlTgtAek"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T04:21:05.000Z",
@@ -2920,8 +3145,11 @@
     "position": 75,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "Vj25b7myI6k"
-    }
+      "videoId": "Vj25b7myI6k",
+      "videoURL": "https://www.youtube.com/watch?v=Vj25b7myI6k"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T04:58:34.000Z",
@@ -2955,8 +3183,11 @@
     "position": 76,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "RTiwUra8Eu8"
-    }
+      "videoId": "RTiwUra8Eu8",
+      "videoURL": "https://www.youtube.com/watch?v=RTiwUra8Eu8"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T05:19:17.000Z",
@@ -2995,8 +3226,11 @@
     "position": 77,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "DA2FrgA04YU"
-    }
+      "videoId": "DA2FrgA04YU",
+      "videoURL": "https://www.youtube.com/watch?v=DA2FrgA04YU"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T05:20:24.000Z",
@@ -3035,8 +3269,11 @@
     "position": 78,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "ruiqRdDZQpw"
-    }
+      "videoId": "ruiqRdDZQpw",
+      "videoURL": "https://www.youtube.com/watch?v=ruiqRdDZQpw"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T05:25:34.000Z",
@@ -3075,8 +3312,11 @@
     "position": 79,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "eCjM29Bq7Go"
-    }
+      "videoId": "eCjM29Bq7Go",
+      "videoURL": "https://www.youtube.com/watch?v=eCjM29Bq7Go"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T05:28:41.000Z",
@@ -3115,8 +3355,11 @@
     "position": 80,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "gA4vYw4lD6g"
-    }
+      "videoId": "gA4vYw4lD6g",
+      "videoURL": "https://www.youtube.com/watch?v=gA4vYw4lD6g"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T05:42:52.000Z",
@@ -3155,8 +3398,11 @@
     "position": 81,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "gl7NPt3BdE8"
-    }
+      "videoId": "gl7NPt3BdE8",
+      "videoURL": "https://www.youtube.com/watch?v=gl7NPt3BdE8"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T05:49:14.000Z",
@@ -3195,8 +3441,11 @@
     "position": 82,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "tIkVFU9Pmmo"
-    }
+      "videoId": "tIkVFU9Pmmo",
+      "videoURL": "https://www.youtube.com/watch?v=tIkVFU9Pmmo"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T05:55:30.000Z",
@@ -3235,8 +3484,11 @@
     "position": 83,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "Sd8HrOLVUtA"
-    }
+      "videoId": "Sd8HrOLVUtA",
+      "videoURL": "https://www.youtube.com/watch?v=Sd8HrOLVUtA"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T17:07:49.000Z",
@@ -3275,8 +3527,11 @@
     "position": 84,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "_H1AhmN80n4"
-    }
+      "videoId": "_H1AhmN80n4",
+      "videoURL": "https://www.youtube.com/watch?v=_H1AhmN80n4"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T17:34:42.000Z",
@@ -3315,8 +3570,11 @@
     "position": 85,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "ggXl1wfJLaw"
-    }
+      "videoId": "ggXl1wfJLaw",
+      "videoURL": "https://www.youtube.com/watch?v=ggXl1wfJLaw"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-11T17:48:30.000Z",
@@ -3355,8 +3613,11 @@
     "position": 86,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "JyNXpbtWeX8"
-    }
+      "videoId": "JyNXpbtWeX8",
+      "videoURL": "https://www.youtube.com/watch?v=JyNXpbtWeX8"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2013-09-16T16:51:31.000Z",
@@ -3395,8 +3656,11 @@
     "position": 87,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "ggkQIW28NGY"
-    }
+      "videoId": "ggkQIW28NGY",
+      "videoURL": "https://www.youtube.com/watch?v=ggkQIW28NGY"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2016-07-02T18:43:52.000Z",
@@ -3435,8 +3699,11 @@
     "position": 88,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "TqrnXlt_cl8"
-    }
+      "videoId": "TqrnXlt_cl8",
+      "videoURL": "https://www.youtube.com/watch?v=TqrnXlt_cl8"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2016-07-14T14:04:41.000Z",
@@ -3475,8 +3742,11 @@
     "position": 89,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "mpbENEFs__Q"
-    }
+      "videoId": "mpbENEFs__Q",
+      "videoURL": "https://www.youtube.com/watch?v=mpbENEFs__Q"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   },
   {
     "publishedAt": "2016-09-15T14:32:34.000Z",
@@ -3515,7 +3785,10 @@
     "position": 90,
     "resourceId": {
       "kind": "youtube#video",
-      "videoId": "mPDP1mcfCQI"
-    }
+      "videoId": "mPDP1mcfCQI",
+      "videoURL": "https://www.youtube.com/watch?v=mPDP1mcfCQI"
+    },
+    "channelURL": "https://www.youtube.com/channel/UCG9GDPYfzm67CgdovNU9RMw",
+    "playlistURL": "https://www.youtube.com/playlist?list=PLV34fyAxhmQPnz2obH3cDPjY-whXGBKRp"
   }
 ]
