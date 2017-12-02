@@ -20,15 +20,16 @@ function playlistInfoRecursive(playlistId, callStackSize, pageToken, currentItem
   });
 }
 
-module.exports = function playlistInfo(apiKey, playlistId, {maxResults}) {
+module.exports = function playlistInfo(apiKey, playlistId, options) {
   return new Promise((resolve, reject) => {
     if (!apiKey) return reject(new Error('No API Key Provided'));
     if (!playlistId) return reject(new Error('No Playlist ID Provided'));
+    if (!options) options = {};
     youtube.authenticate({
       type: 'key',
       key: apiKey
     });
-    playlistInfoRecursive(playlistId, 0, null, [], maxResults, (err, list) => {
+    playlistInfoRecursive(playlistId, 0, null, [], options.maxResults || null, (err, list) => {
       if (err) return reject(err);
       return resolve(list);
     });
