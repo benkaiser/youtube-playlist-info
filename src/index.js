@@ -10,7 +10,11 @@ function playlistInfoRecursive(playlistId, callStackSize, pageToken, currentItem
   }, function(err, data) {
     if (err) return callback(err);
     for (const x in data.items) {
-      currentItems.push(data.items[x].snippet);
+      const info = data.items[x];
+      info.snippet.channelURL = (info.snippet.channelId ? "https://www.youtube.com/channel/" + info.snippet.channelId : null);
+      info.snippet.playlistURL = (info.snippet.playlistId ? "https://www.youtube.com/playlist?list=" + info.snippet.playlistId : null);
+      if (info.snippet.resourceId) info.snippet.resourceId.videoURL = (info.snippet.resourceId.videoId ? "https://www.youtube.com/watch?v=" + info.snippet.resourceId.videoId : null)
+      currentItems.push(info.snippet);
     }
     if (data.nextPageToken && (customRequestAmount > 50 || !customRequestAmount)) {
       playlistInfoRecursive(playlistId, callStackSize + 1, data.nextPageToken, currentItems, (customRequestAmount > 50 ? customRequestAmount - 50 : customRequestAmount), callback);
